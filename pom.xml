@@ -16,6 +16,8 @@
 
     <name>imooc-coupon</name>
     <description>SpringCloud Project For Imooc Coupon</description>
+
+
     <modules>
         <module>coupon-eureka</module>
     </modules>
